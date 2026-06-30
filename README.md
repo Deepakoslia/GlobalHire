@@ -104,6 +104,3 @@ curl -X POST http://localhost:5000/api/demo \
 - Restrict database user permissions to required operations only
 - Serve over HTTPS in production
 
-## License
-
-Proprietary — GlobalHire, Inc.
